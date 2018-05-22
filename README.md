@@ -1,2 +1,4 @@
-# webpack-react-configs
-Webpack configuration for ReactJS applications
+# Webpack configs for ReactJS applications
+npm i
+`Production build`
+  npm run dev-build
